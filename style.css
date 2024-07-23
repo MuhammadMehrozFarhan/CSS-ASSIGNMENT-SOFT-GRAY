@@ -1,0 +1,204 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.main {
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    padding: 10px 0px;
+
+}
+.logo img{
+    width:70px;
+    margin-top: 0.0px;
+}
+header .logo {
+    margin-left: 200px;
+    margin-top: 8px;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header nav {
+    float: right;
+}
+
+header nav ul {
+    margin-top: 20px;
+    margin-right: 250px;
+    padding: 0;
+    list-style: none;
+}
+
+header nav ul li {
+    margin-left: 22px;
+    display: inline;
+}
+
+header nav ul li a {
+    font-size: 13px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+
+.number {
+    margin-left: 100px;
+    font-weight: bold;
+
+}
+
+.s1 {
+    background: url(laptop\ \ typing.jpeg);
+    margin-top: 40px;
+    background-size: cover;
+    text-align: center;
+    padding: 50px 0px;
+    color: white;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: monospace;
+}
+
+.services {
+    text-align: center;
+    padding: 30px 0px;
+    margin: 0px 0px;
+}
+
+.service {
+    display: inline-block;
+    width: 20%;
+    margin: 14px;
+    vertical-align: top;
+}
+
+.txt {
+    display: inline-block;
+    margin: 0 30px
+}
+
+.services .service img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.services .service h3 {
+    font-size: 30px;
+    margin: 10px 0;
+}
+.section {
+    background-color: #E5E5E5;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.paras {
+    margin: 1px;
+    padding: 10px 300px;
+}
+
+.text-big {
+    font-size: 45px;
+}
+
+.text-small {
+    font-size: 18px;
+}
+
+.imglaptop {
+    width: 400px;
+    margin-right: 160px;
+}
+
+button {
+    width: 120px;
+    background: #fff;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 20px 0;
+}
+
+.item-2 {
+    background-color: #E5E5E5;
+    height: 500px;
+    margin: 0px;
+
+}
+
+.imgcenter {
+    margin: 0px 7% 0px 7%;
+    margin-left: 20%;
+
+
+}
+
+.item-2 img {
+    width: 270px;
+    height: 270px;
+    margin: 60px -4px;
+}
+
+.footer {
+    padding: 15px;
+}
+.mainf {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.ss1{
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 32px;
+}
+.ss2{
+    margin-left: 250px;
+    font-weight: bold;
+    font-size: 32px;
+}
+.ss3{
+    margin-left:300px;
+    font-weight: bold;
+    font-size: 32px;
+}
+.block {
+    width: calc(33% - (40px / 3));
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+.block img {
+    width: 100%;
+    height: auto;
+}
+.block h4 {
+    color: #3599d5;
+    font-weight: bold;
+}
+.block p {
+    color: #666666;
+}
+.date span {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+div .date {
+    margin-top: -26.6px;
+}
